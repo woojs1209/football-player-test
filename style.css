@@ -1,0 +1,9 @@
+.question {
+    display: flex;
+    flex-direction: column;
+    display: none;
+}
+
+.result {
+    display: none;
+}
